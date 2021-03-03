@@ -27,7 +27,7 @@ maxheight = 1.0
 randomness = 0
 
 grid_texture_coordinates = False
-texture = True # Will the mesh have any texture
+texture = False # Will the mesh have any texture
 
 # Use \\ instead of \ in paths like C:\\ to aviod escaped characters like \n
 heightmap = Image.open(r"")
