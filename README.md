@@ -7,4 +7,4 @@ If you're making large meshes then I recommend optimizing them with a mesh optim
 Inside the script are configuration variables. Further instructions are there.
 
 With this script you can make 3D terrain for games.
-You can view resulting mesh in 3D mesh editor like Blender for example.
+You can view resulting mesh in 3D mesh editor like Blender.
